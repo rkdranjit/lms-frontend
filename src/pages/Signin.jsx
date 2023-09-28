@@ -65,7 +65,7 @@ function Signin(){
                         />
                     </div>
                     <div className="flex flex-col gap-1">
-                        <label htmlFor="password" className="font-semibold">password</label>
+                        <label htmlFor="password" className="font-semibold">Password</label>
                         <input
                             onChange={handleUserInput}
                             value={signinDetails.password} 
