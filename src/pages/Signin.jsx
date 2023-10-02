@@ -81,7 +81,7 @@ function Signin(){
                         Sign In
                     </button>
                     <p>
-                        Don't have an account ? <Link to="/signup" className="cursor-pointer text-accent">Login</Link>
+                        Don't have an account ? <Link to="/signup" className="cursor-pointer text-accent">Signup</Link>
                     </p>
                 </form>
             </div>

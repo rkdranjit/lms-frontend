@@ -148,7 +148,7 @@ function Signup(){
                         Create account
                     </button>
                     <p>
-                        Already have an account ? <Link to="/login" className="cursor-pointer text-accent">Login</Link>
+                        Already have an account ? <Link to="/signin" className="cursor-pointer text-accent">Login</Link>
                     </p>
                 </form>
             </div>
